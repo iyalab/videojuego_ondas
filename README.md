@@ -21,13 +21,15 @@ Duración total del videotutorial: 1 hora 52 minutos aprox.
 
 Para seguir los videotutoriales es muy importante descargar este proyecto, subiendo a la parte superior y dando clic en el botón que dice "Download Zip" o siguiendo el siguiente link la computadora les pedirá descargar el archivo (que deberán descomprimir pues se encuentra en un .zip): https://github.com/orejuelajd/videojuego_ondas/archive/master.zip 
 
-### Nota: También se pueden, reproduzcan los videos en HD, ya que el vídeo 1 y 4 presentan un poco menos de calidad y algunas veces se pueden ver borroso. Presentamos Disculpas por el primer vídeo que tiene algunas fallas en el audio, pero solo fue el primer vídeo, los demás tienen en buen estado el audio.
+##### Nota: También se pueden, reproduzcan los videos en HD, ya que el vídeo 1 y 4 presentan un poco menos de calidad y algunas veces se pueden ver borroso. Presentamos Disculpas por el primer vídeo que tiene algunas fallas en el audio, pero solo fue el primer vídeo, los demás tienen en buen estado el audio.
 
 ## El proyecto que descarguen contiene dos carpetas:
 * Assets: Contiene todos los recursos necesarios para el desarrollo de los videotutoriales
 * ondas_demounity: Es el proyecto finalizado y funcional y que se puede abrir desde Unity3D por si se quiere ver el resultado final
 
-#### Recuerden que para cualquier duda que tengan sobre el videojuego nos pueden preguntar a los siguientes correos (integrantes del semillero IYALAB):
+##### Contacto para cualquier duda:
+
+Recuerden que para cualquier duda que tengan sobre el videojuego nos pueden preguntar a los siguientes correos (integrantes del semillero IYALAB):
 
 Juan David Orejuela Bolaños: orejuelajd@gmail.com
 Jin Min Andrés Chen: ac.chencho@gmail.com
