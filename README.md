@@ -23,3 +23,7 @@ El proyecto que descarguen contiene dos carpetas:
 * Assets: Contiene todos los recursos necesarios para el desarrollo de los videotutoriales
 * ondas_demounity: Es el proyecto finalizado y funcional y que se puede abrir desde Unity3D por si se quiere ver el resultado final
 
+Recuerden que para cualquier duda que tengan sobre el videojuego nos pueden preguntar a los siguientes correos (integrantes del semillero IYALAB):
+
+Juan David Orejuela Bolaños: orejuelajd@gmail.com
+Jin Min Andrés Chen: ac.chencho@gmail.com
