@@ -11,27 +11,15 @@ los cuales serán una guía para el desarrollo y finalización del videojuego pr
 
 La serie de videotutoriales esta compuesta por:
 
-* Videotutorial No. 1: 
-Duración: 39:56 minutos 
-Link: https://vimeo.com/147483096 
+* Videotutorial No. 1 (39:56 minutos): https://vimeo.com/147483096 
+* Videotutorial No. 2 (24:41 minutos): https://vimeo.com/147489139
+* Videotutorial No. 3 (13:37 minutos): https://vimeo.com/147491358
+* Videotutorial No. 4 (14:58 minutos): https://vimeo.com/147494313 
+* Videotutorial No. 5 (17:24 minutos): https://vimeo.com/147492673
 
-* Videotutorial No. 2:
-Duración:
-Link:
+Para seguir los videotutoriales es muy importante descargar este proyecto, subiendo a la parte superior y dando clic en el botón que dice "Download Zip" o siguiendo el siguiente link la computadora les pedirá descargar el archivo (que deberán descomprimir pues se encuentra en un .zip): https://github.com/orejuelajd/videojuego_ondas/archive/master.zip 
 
-* Videotutorial No. 3:
-Duración:
-Link:
-
-* Videotutorial No. 4:
-Duración:
-Link:
-
-* Videotutorial No. 5:
-Duración:
-Link:
-
-Este proyecto contiene dos carpetas:
+El proyecto que descarguen contiene dos carpetas:
 * Assets: Contiene todos los recursos necesarios para el desarrollo de los videotutoriales
 * ondas_demounity: Es el proyecto finalizado y funcional y que se puede abrir desde Unity3D por si se quiere ver el resultado final
 
